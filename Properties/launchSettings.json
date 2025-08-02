@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "BitzConvert": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Admin\\source\\repos\\Project\\BitzConvert",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json"
+}

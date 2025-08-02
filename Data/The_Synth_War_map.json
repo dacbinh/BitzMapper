@@ -1,0 +1,5606 @@
+{
+  "identifier": "16f3e3ef-77de-46ac-983a-bccc7f09223e",
+  "songTitle": "The Synth War",
+  "songAuthor": "Jack O' Relly'",
+  "mapAuthor": "dakbik",
+  "musicFileName": "ytmp3free.cc_the-synth-wars-jack-oreilly-un-show-mas-youtubemp3free.org.mp3",
+  "backgroundFileName": "synthwar_bg.jpg",
+  "albumCoverFileName": "TheSynthWar_cover.jpg",
+  "speed": 5,
+  "offsetMs": 0,
+  "beats": [
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 4771,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 5229,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 5708,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 6229,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 6750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 7271,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 7792,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 8333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 8896,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 9354,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 9896,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 10458,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 10958,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 11458,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 12000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 12521,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 13042,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 13542,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 14042,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 14583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 15104,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 15583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 16104,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 16646,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 17167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 17708,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 18229,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 18771,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 19292,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 19792,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 20313,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 20813,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 21333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 21500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 21667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 21833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 21917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 22083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 22167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 22333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 22417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 22583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 22750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 22833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 23000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 23083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 23250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 23417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 23500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 23667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 23750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 23917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 24000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 24167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 24333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 24417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 24583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 24667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 24750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 24917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 25083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 25167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 25333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 25417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 25583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 25750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 25833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 26000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 26167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 26250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 26417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 26500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 26667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 26750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 26917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 27000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 27167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 27333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 27417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 27583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 27667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 27833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 27917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 28083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 28250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 28333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 28500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 28583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 28750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 28833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 29000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 29167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 29250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 29417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 29500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 29667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 29833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 29917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 30000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 30167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 30333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 30417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 30500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 30667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 30833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 30917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 31083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 31167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 31333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 31417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 31583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 31750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 31833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 32000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 32083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 32250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 32333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 32500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 32667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 32750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 32917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 33000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 33167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 33250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 33417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 33583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 33667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 33833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 33917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 34083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 34167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 34333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 34417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 34583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 34750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 34833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 35000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 35083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 35250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 35333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 35500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 35583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 35750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 35917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 36000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 36167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 36250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 36417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 36583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 36667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 36833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 36917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 37083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 37167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 37333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 37417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 37583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 37750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 37833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 37917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 38083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 38250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 38333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 38500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 38667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 38750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 38917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 39000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 39167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 39250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 39417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 39583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 39667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 39833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 39917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 40083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 40167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 40333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 40417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 40583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 40667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 40833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 41000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 41083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 41250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 41333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 41500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 41583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 41750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 41917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 42000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 42167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 42250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 42417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 42583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 42667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 42833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 42917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 43083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 43167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 43333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 43417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 43583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 43750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 43833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 44000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 44083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 44250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 44417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 44500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 44667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 44750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 44917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 45000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 45167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 45250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 45417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 45583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 45667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 45833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 45917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 46083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 46167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 46333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 46500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 46583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 46750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 46833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 47000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 47167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 47250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 47500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 47667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 47750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 47917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 48000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 48167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 48250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 48500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 48667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 48750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 48917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 49083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 49167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 49333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 49583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 49750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 49833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 50000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 50083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 50250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 50417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 50667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 50750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 50917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 51000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 51167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 51333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 51417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 51750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 51833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 52000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 52083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 52250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 52333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 52500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 52750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 52833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 53000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 53083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 53250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 53417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 53583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 53667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 53833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 54833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 55000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 55333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 55583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 55750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 56417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 56500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 56583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 56917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 57167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 57333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 57667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 57750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 58083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 58167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 58583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 58750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 58833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 59000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 59250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 59500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 59750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 59917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 60583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 60667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 60833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 60917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 61750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 61833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 62000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 62750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 62917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 63000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 63167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 63417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 63667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 63917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 64083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 64750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 64833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 65000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 65167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 65500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 65750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 66000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 66167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 66417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 66500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 66917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 67083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 67167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 67333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 67583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 67750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 68083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 68250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 68917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 69000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 69167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 69250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 70083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 70167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 70333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 71583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 72500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 73500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 74583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 75667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 76750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 77833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 78750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 79167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 79750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 80333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 80750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 81333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 81833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 82333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 82833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 83333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 83833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 84333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 84833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 85417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 86000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 86500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 87000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 87500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 88083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 88667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 89000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 89250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 89500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 89750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 90583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 91083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 91333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 91833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 92083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 92333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 93417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 93917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 94500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 96500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 96750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 97000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 97333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 97500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 98083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 98250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 98333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 98500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 98583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 98917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 99167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 99417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 99500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 99667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 99917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 100500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 100583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 100667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 101000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 101250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 101500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 101583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 102167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 102250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 102417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 102667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 103583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 103667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 103833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 104417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 104500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 104667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 104833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 105083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 105333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 105583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 105750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 106500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 106583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 106667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 106917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 107250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 107500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 107750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 107833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 108167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 108250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 108667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 108750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 108833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 109000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 109333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 109583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 109833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 109917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 110583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 110750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 110833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 111083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 111833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 111917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 112083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 112750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 112833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 113000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 113083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 113250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 113333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 113500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 113583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 113750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 113917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 114083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 114167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 114333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 114417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 114583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 114667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 114833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 114917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 115083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 115167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 115333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 115417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 115583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 115750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 115833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 116000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 116083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 116250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 116417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 116500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 116667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 116750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 116917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 117000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 117167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 117333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 117417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 117583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 117667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 117833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 117917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 118083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 118250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 118333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 118500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 118583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 118750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 118917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 119000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 119167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 119250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 119417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 119500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 119667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 119833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 119917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 120083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 120167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 120333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 120417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 120583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 120750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 120833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 121000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 121083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 121250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 121333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 121500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 121583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 121750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 121833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 122000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 122167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 122250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 122417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 122583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 122667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 122750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 122917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 123083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 123167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 123333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 123417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 123583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 123667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 123833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 123917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 124083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 124250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 124333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 124500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 124583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 124750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 124917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 125000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 125167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 125250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 125417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 125500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 125667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 125833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 125917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 126083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 126167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 126333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 126417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 126583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 126750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 126833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 127000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 127083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 127250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 127333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 127500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 127667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 127750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 127917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 128083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 128167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 128333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 128417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 128583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 128667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 128833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 128917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 129083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 129167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 129333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 129417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 129583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 129750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 129833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 130083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 130167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 130250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 130417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 130500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 130667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 130750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 131000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 131167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 131333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 131417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 131583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 131667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 131833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 132083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 132167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 132333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 132500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 132583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 132750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 132833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 133083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 133250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 133333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 133500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 133667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 133750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 133917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 134167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 134250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 134417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 134583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 134667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 134833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 134917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 135167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 135333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 135417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 135583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 135750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 135833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 136000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 136083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 136250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 136417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 136500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 136667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 136750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 136917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 137000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 137167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 137333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 138250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 138417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 138667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 139000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 139083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 139833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 139917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 140083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 140250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 140583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 140833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 141167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 141250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 141583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 141667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 142167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 142250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 142417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 142583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 142750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 143000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 143250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 143333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 144083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 144250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 144333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 144500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 145167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 145333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 145500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 146250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 146333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 146500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 146583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 146917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 147167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 147417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 147500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 148167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 148333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 148417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 148583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 148917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 149167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 149500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 149583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 149917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 150000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 150500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 150583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 150750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 151000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 151333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 151583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 151667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 152417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 152500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 152667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 152750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 153417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 153583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 153833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 155083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 155417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 155917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 156500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 157000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 157500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 158083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 158583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 159167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 159667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 160167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 160750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 161250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 161750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 162250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 162833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 163333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 163833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 164417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 164833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 165417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 166000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 166500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 166917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 167500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 168000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 168583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 169083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 169667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 170083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 170667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 171167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 171750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 172167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 172417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 172667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 172917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 173250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 174083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 174583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 174833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 175333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 175583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 175917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 176917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 177417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 177917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 179000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 180000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 180250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 180500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 180750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 180917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 181667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 181750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 181833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 182000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 182333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 182583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 182833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 182917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 183250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 183417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 183833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 184000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 184083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 184250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 184500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 184667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 184917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 185083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 185750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 185833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 186000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 186083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 186167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 186917,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 187000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 187167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 188000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 188083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 188167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 188417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 188583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 188833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 189250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 189333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 190000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 190083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 190250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 190333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 190667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 191000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 191167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 191333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 191667,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 191750,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 192167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 192333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 192417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 192583,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 192833,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 193000,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 193250,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 193417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 194083,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 194167,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 1,
+      "speed": 3,
+      "start": 194333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 194500,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 3,
+      "speed": 3,
+      "start": 195333,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 195417,
+      "end": -1
+    },
+    {
+      "type": 0,
+      "beatDirection": 2,
+      "speed": 3,
+      "start": 195667,
+      "end": -1
+    }
+  ]
+}
